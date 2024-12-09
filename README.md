@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error involving type mismatches in function arguments. The `greeter` function expects a string but receives an array, resulting in a compilation error. The solution shows how to handle this by modifying the function to properly handle array inputs.
